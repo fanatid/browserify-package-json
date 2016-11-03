@@ -1,6 +1,6 @@
 {
   "name": "browserify-package-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove not public values from package.json on browserify",
   "keywords": [],
   "homepage": "https://github.com/fanatid/browserify-package-json",
